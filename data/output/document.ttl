@@ -1,0 +1,101 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://data.europa.eu/eli/ontology#> .
+@prefix ns2: <http://publications.europa.eu/ontology/cdm#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http%3A//example.org/document/article/Article%251> ns1:SubdivisionType "Article"^^xsd:string ;
+    dcterms:URIisPartOf <http://example.org/document/> ;
+    rdfs:type <http://schema.org/Article> .
+
+<http%3A//example.org/document/article/Article%2510> ns1:SubdivisionType "Article"^^xsd:string ;
+    dcterms:URIisPartOf <http://example.org/document/> ;
+    rdfs:type <http://schema.org/Article> .
+
+<http%3A//example.org/document/article/Article%2511> ns1:SubdivisionType "Article"^^xsd:string ;
+    dcterms:URIisPartOf <http://example.org/document/> ;
+    rdfs:type <http://schema.org/Article> .
+
+<http%3A//example.org/document/article/Article%2512> ns1:SubdivisionType "Article"^^xsd:string ;
+    dcterms:URIisPartOf <http://example.org/document/> ;
+    rdfs:type <http://schema.org/Article> .
+
+<http%3A//example.org/document/article/Article%2513> ns1:SubdivisionType "Article"^^xsd:string ;
+    dcterms:URIisPartOf <http://example.org/document/> ;
+    rdfs:type <http://schema.org/Article> .
+
+<http%3A//example.org/document/article/Article%2514> ns1:SubdivisionType "Article"^^xsd:string ;
+    dcterms:URIisPartOf <http://example.org/document/> ;
+    rdfs:type <http://schema.org/Article> .
+
+<http%3A//example.org/document/article/Article%2515> ns1:SubdivisionType "Article"^^xsd:string ;
+    dcterms:URIisPartOf <http://example.org/document/> ;
+    rdfs:type <http://schema.org/Article> .
+
+<http%3A//example.org/document/article/Article%2516> ns1:SubdivisionType "Article"^^xsd:string ;
+    dcterms:URIisPartOf <http://example.org/document/> ;
+    rdfs:type <http://schema.org/Article> .
+
+<http%3A//example.org/document/article/Article%2517> ns1:SubdivisionType "Article"^^xsd:string ;
+    dcterms:URIisPartOf <http://example.org/document/> ;
+    rdfs:type <http://schema.org/Article> .
+
+<http%3A//example.org/document/article/Article%2518> ns1:SubdivisionType "Article"^^xsd:string ;
+    dcterms:URIisPartOf <http://example.org/document/> ;
+    rdfs:type <http://schema.org/Article> .
+
+<http%3A//example.org/document/article/Article%2519> ns1:SubdivisionType "Article"^^xsd:string ;
+    dcterms:URIisPartOf <http://example.org/document/> ;
+    rdfs:type <http://schema.org/Article> .
+
+<http%3A//example.org/document/article/Article%252> ns1:SubdivisionType "Article"^^xsd:string ;
+    dcterms:URIisPartOf <http://example.org/document/> ;
+    rdfs:type <http://schema.org/Article> .
+
+<http%3A//example.org/document/article/Article%2520> ns1:SubdivisionType "Article"^^xsd:string ;
+    dcterms:URIisPartOf <http://example.org/document/> ;
+    rdfs:type <http://schema.org/Article> .
+
+<http%3A//example.org/document/article/Article%2521> ns1:SubdivisionType "Article"^^xsd:string ;
+    dcterms:URIisPartOf <http://example.org/document/> ;
+    rdfs:type <http://schema.org/Article> .
+
+<http%3A//example.org/document/article/Article%2522> ns1:SubdivisionType "Article"^^xsd:string ;
+    dcterms:URIisPartOf <http://example.org/document/> ;
+    rdfs:type <http://schema.org/Article> .
+
+<http%3A//example.org/document/article/Article%2523> ns1:SubdivisionType "Article"^^xsd:string ;
+    dcterms:URIisPartOf <http://example.org/document/> ;
+    rdfs:type <http://schema.org/Article> .
+
+<http%3A//example.org/document/article/Article%253> ns1:SubdivisionType "Article"^^xsd:string ;
+    dcterms:URIisPartOf <http://example.org/document/> ;
+    rdfs:type <http://schema.org/Article> .
+
+<http%3A//example.org/document/article/Article%254> ns1:SubdivisionType "Article"^^xsd:string ;
+    dcterms:URIisPartOf <http://example.org/document/> ;
+    rdfs:type <http://schema.org/Article> .
+
+<http%3A//example.org/document/article/Article%255> ns1:SubdivisionType "Article"^^xsd:string ;
+    dcterms:URIisPartOf <http://example.org/document/> ;
+    rdfs:type <http://schema.org/Article> .
+
+<http%3A//example.org/document/article/Article%256> ns1:SubdivisionType "Article"^^xsd:string ;
+    dcterms:URIisPartOf <http://example.org/document/> ;
+    rdfs:type <http://schema.org/Article> .
+
+<http%3A//example.org/document/article/Article%257> ns1:SubdivisionType "Article"^^xsd:string ;
+    dcterms:URIisPartOf <http://example.org/document/> ;
+    rdfs:type <http://schema.org/Article> .
+
+<http%3A//example.org/document/article/Article%258> ns1:SubdivisionType "Article"^^xsd:string ;
+    dcterms:URIisPartOf <http://example.org/document/> ;
+    rdfs:type <http://schema.org/Article> .
+
+<http%3A//example.org/document/article/Article%259> ns1:SubdivisionType "Article"^^xsd:string ;
+    dcterms:URIisPartOf <http://example.org/document/> ;
+    rdfs:type <http://schema.org/Article> .
+
+<http://example.org/document/> ns2:language "EN" ;
+    <http://schema.org/> "Official Journal of the European Union" .
+
